@@ -15,10 +15,7 @@ body{
 }
 .c{
     display:flex;
-        justify-content: center;
-    align-content: center;
-    padding:0 25px;
-    border:1px solid brown;
+     
     
 }
 .b{
@@ -26,7 +23,7 @@ body{
     height: 480px;
     padding:50px 50px;
 }
-.d{
+.c{
     display:flex;
     background-color: rgb(233, 231, 231);
     flex-direction:column;
