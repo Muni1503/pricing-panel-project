@@ -13,9 +13,8 @@ body{
 
     
 }
-.d{
-    min-height: 100px;
-    min-width:100px;
+.c{
+    display:flex;
 }
 .b{
     width: 480px;
