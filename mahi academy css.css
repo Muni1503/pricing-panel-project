@@ -13,13 +13,12 @@ body{
 
     
 }
-.c{
-    display:flex;
+
      
     
-}
+
 .b{
-    width: 360px;
+    width: 4800px;
     height: 480px;
     padding:50px 50px;
 }
