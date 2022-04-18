@@ -42,7 +42,7 @@ body{
     border-bottom: none;
 
 }
-@media(min-width:900px){
+@media(min-width:1000px){
 .d{
     display:flex;
     background-color: rgb(231,231,231);
