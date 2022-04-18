@@ -22,7 +22,7 @@ body{
     height: 480px;
     padding:50px 50px;
 }
-.d{
+.c{
     display:flex;
     background-color: rgb(233, 231, 231);
     flex-direction:column;
