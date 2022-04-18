@@ -46,7 +46,7 @@ body{
 .d{
     display:flex;
     background-color: rgb(231,231,231);
-    flex-direction:row;
+    flex-direction:column;
     justify-content: center;
     align-content: center;
     padding:0 25px;
