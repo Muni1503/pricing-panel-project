@@ -20,7 +20,7 @@ body{
 .b{
     width: 480px;
     height: 480px;
-    padding:100px 100px;
+    padding:100px 50px;
 }
 .c{
     display:flex;
