@@ -21,7 +21,7 @@ body{
     text-transform: uppercase;
 }
 .pricing-plan{
-    border-bottom: 1px solid #134d86;
+    border-bottom: 1px solid brown;
 }
 .pricing-plan:last-child{
     border-bottom: none;
