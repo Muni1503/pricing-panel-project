@@ -70,8 +70,9 @@ body{
     transition: background-color 200ms ease-in-out;
 }
 .pricing-button:hover,.pricing-button:focus{
-    background-color: #e1f1ff;
-    color:black;
+    background-color: rgba(196, 31, 31, 0.7);
+    border-radius: 50%;
+
 
 }
 
